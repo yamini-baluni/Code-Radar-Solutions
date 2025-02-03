@@ -2,7 +2,7 @@
 #define  PI 3.14159
 int main() {
     float radius, Area;
-    printf("enter:");
+    printf("");
     scanf("%f", &radius);
     Area = PI*radius*radius;
     printf("Area: %.2f\n",Area);
