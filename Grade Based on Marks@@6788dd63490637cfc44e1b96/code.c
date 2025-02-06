@@ -14,5 +14,8 @@ int main(){
     else if(n>=60 && n<=70){
         printf("D\n");
     }
+    else{
+        printf("F\n")
+    }
 return 0;
 }
